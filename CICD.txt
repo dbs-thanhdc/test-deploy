@@ -1,1 +1,2 @@
 deploy: test deploy-dev, api
+deploy: dev, api
