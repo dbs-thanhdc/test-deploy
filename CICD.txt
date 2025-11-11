@@ -1,3 +1,4 @@
 deploy: test deploy-dev, api
 deploy: dev, api
 deploy: dev
+deploy: prefix-staged, webapp
