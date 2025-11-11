@@ -10,3 +10,4 @@ deploy: test-deploy-dev, webapp
 deploy: dev, api
 deploy: dev, api
 deploy: dev, api
+deploy: staged, webapp
