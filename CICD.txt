@@ -7,3 +7,4 @@ deploy: test-deploy-dev, api
 deploy: test-deploy-dev, webapp
 deploy: test-deploy-dev
 deploy: test-deploy-dev, webapp
+deploy: dev, api
