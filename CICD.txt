@@ -4,3 +4,4 @@ deploy: dev
 deploy: prefix-staged, webapp
 deploy: prefix-dev-final, webapp
 deploy: test-deploy-dev, api
+deploy: test-deploy-dev, webapp
