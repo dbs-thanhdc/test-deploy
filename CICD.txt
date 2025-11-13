@@ -21,3 +21,4 @@ deploy: dev, webapp
 deploy: dev
 deploy: api
 deploy: dev, webapp
+deploy: dev-final, api
