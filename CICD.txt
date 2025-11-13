@@ -20,3 +20,4 @@ deploy: dev, api
 deploy: dev, webapp
 deploy: dev
 deploy: api
+deploy: dev, webapp
