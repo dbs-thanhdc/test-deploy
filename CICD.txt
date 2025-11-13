@@ -12,3 +12,5 @@ deploy: dev, api
 deploy: dev, api
 deploy: staged, webapp
 deploy: stage, api
+deploy: api
+
