@@ -15,3 +15,4 @@ deploy: stage, api
 deploy: api
 
 deploy: api
+deploy: stage, webapp
